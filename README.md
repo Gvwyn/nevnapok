@@ -36,7 +36,7 @@ Ez a fájl teljes egésze elérhető [itt](https://github.com/Gvwyn/nevnapok/rel
 
 ### Előfeltételek
 
-3 könyvtár, melyeket a következő paranccsal tudtok letölteni/csekkolni:
+3 könyvtár, melyből 2 nem alap könyvtár, ezeket a következő paranccsal tudjátok letölteni:
 
 ```bash
 pip install requests beautifulsoup4
